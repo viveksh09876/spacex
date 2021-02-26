@@ -19,12 +19,12 @@ Deployed here: https://nifty-kare-1f8ec8.netlify.app/
 
 ### Screenshots
 > Mobile
-![Alt text](mobile.png)
+![Alt text](mobile.PNG)
 
 > iPad
-![Alt text](iPad.png)
+![Alt text](iPad.PNG)
 
 > Desktop
-![Alt text](desktop.png)
+![Alt text](desktop.PNG)
 
 
