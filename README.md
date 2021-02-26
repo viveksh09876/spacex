@@ -14,15 +14,17 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### Screenshots
+### Netlify deployment
+Deployed here: https://nifty-kare-1f8ec8.netlify.app/
 
+### Screenshots
 > Mobile
-![Alt text](/mobile.png)
+![Alt text](mobile.png)
 
 > iPad
-![Alt text](/mobile.png)
+![Alt text](iPad.png)
 
 > Desktop
-![Alt text](/desktop.png)
+![Alt text](desktop.png)
 
 
