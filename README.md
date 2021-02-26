@@ -22,7 +22,7 @@ Deployed here: https://nifty-kare-1f8ec8.netlify.app/
 ![Alt text](mobile.PNG)
 
 > iPad
-![Alt text](iPad.PNG)
+![Alt text](ipad.PNG)
 
 > Desktop
 ![Alt text](desktop.PNG)
