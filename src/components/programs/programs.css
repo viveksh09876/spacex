@@ -1,0 +1,11 @@
+.right-sidebar{ min-height: 100vh; display: inline-block; vertical-align: top; width:calc(80% - 25px);}
+
+.productListing{ display:flex; justify-content: space-between; flex-wrap: wrap;}
+.productListing .productbox{ flex: 0 0 23%; background: #fff; padding: 15px 2%; border-radius: 5px; margin: 0 0 20px; text-align: center}
+
+.productListing .productbox img{ max-width:100%;}
+.productListing .productbox h3{ margin: 12px 0; font-size: 16px; line-height: 20px; text-align: left;}
+.productListing .productbox h3 a{ color: #7177aa;}
+.productListing .productbox ul li{ font-size: 14px; line-height: 20px; margin: 0 0 7px; color: #7a7d86; text-align: left;}
+.productListing .productbox ul li strong{ font-weight: normal; color:#282828;}
+.productListing .productbox ul .innerliist{ list-style: disc; list-style-position: inside; margin: 0 0 0 12px;}

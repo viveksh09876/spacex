@@ -1,0 +1,8 @@
+.left-sidebar{ background: #fff; padding: 20px 2%; display: inline-block; vertical-align: top; width: 20%; border-radius: 5px; margin-right: 1.5%;}
+.filterbox{ margin: 0 0 10px;}
+.filterbox h4{ border-bottom: 1px solid #e9e8e9; text-align: center; font-size: 14px; line-height: 20px; margin: 0 0 10px;}
+.filterbox .filter-options{ display: flex; justify-content: space-between; flex-wrap: wrap;}
+.filterbox .filter-options li{ flex: 0 0 38%; position: relative; margin: 0 0 15px;}
+.filterbox .filter-options li input{ position: absolute; left: 0; top: 0; width: 100%; height: 100%; opacity: 0;}
+.filterbox .filter-options li span{ background: #c5e09b; display: inline-block; font-size: 15px; line-height: 20px; padding: 5px 10px; border-radius: 5px; width:100%; text-align: center; text-transform: capitalize;}
+.filterbox .filter-options li input:checked ~ span{ background: #7bba00;}
