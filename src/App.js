@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Filters from './components/filters';
 import Programs from './components/programs';
+import Temp from './components/temp';
 import { API_URL } from './constants';
 import './App.css';
 
@@ -35,6 +36,7 @@ const App = () => {
     <div className="wrapper">
       <h1 className="App-header">SpaceX Launch Programs</h1>
       <div className="container">
+        <Temp />
         <Filters filters={filters} updateFilters={updateFilters} />
         <Programs data={data} />
       </div>
